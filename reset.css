@@ -1,0 +1,48 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/* Reset default styles for all elements */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0; /* Remove default margin */
+	padding: 0;/* Remove default padding */
+	border: 0;/* Remove default border */
+	font-size: 100%; /* Set font size to 100% */
+	font: inherit; /* Inherit font settings */
+	vertical-align: baseline; /* Align elements to baseline */
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block; /* Set display to block for HTML5 elements */
+} /* Reset line-height for body */
+body { /* Set line-height to 1 for body */
+	line-height: 1; /* Set line-height to 1 for body */
+} /* Remove list styles for ordered and unordered lists */
+ol, ul {/* Remove list styles for ordered and unordered lists */
+	list-style: none;/* Remove list styles for ordered and unordered lists */
+}/* Remove default quotes for blockquote and q elements */
+blockquote, q {/* Remove default quotes for blockquote and q elements */
+	quotes: none;/* Remove default quotes for blockquote and q elements */
+}/* Remove default content for blockquote and q pseudo-elements */
+blockquote:before, blockquote:after,/* Remove default content for blockquote and q pseudo-elements */
+q:before, q:after {/* Remove default content for blockquote and q pseudo-elements */
+	content: '';/* Remove default content for blockquote and q pseudo-elements */
+	content: none;/* Remove default content for blockquote and q pseudo-elements */
+}
+table {/* Set table properties */
+	border-collapse: collapse;/* Set table properties */
+	border-spacing: 0;/* Set table properties */
+}/* Set box-sizing for all elements */
