@@ -6,29 +6,36 @@
     <link rel="stylesheet" type="text/css" href="estilo.css"><!--Tag de link para o arquivo CSS externo-->
     <title>Meu Portal de Entretenimento Digital</title><!--Tag de título da página-->
 </head><!--Fim da tag de cabeçalho-->
+
 <!--Comentário: O corpo da página começa aqui-->
 <body><!--Início da tag de corpo-->
-    <h1 style="color: coral;">Portal de Entretenimento Digital</h1> <!--Tag do título principal com estilo inline e com o estilo interno-->
+    <header>
+        <h1 style="color: coral;">Portal de Entretenimento Digital</h1> <!--Tag do título principal com estilo inline e com o estilo interno-->
+    </header>
+        
 <!--Comentário: A div principal contém três colunas, cada uma com um título e imagens relacionadas a filmes, séries, podcasts e livros.-->
-<div class="principal"><!--Início da div principal-->
-    <div class="coluna1"><!--Início da primeira coluna-->
+<main class="principal"><!--Início da div principal-->
+   
+    <section class="coluna1"><!--Início da primeira coluna-->
         <h2>Filmes e Séries</h2><!--Tag de título secundário-->
-        <img src="the_matrix.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="TWD.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="Westworld.jpg"><!--Tag de imagem com fonte especificada-->
-    </div><!--Fim da primeira coluna-->
-    <div class="coluna2"><!--Início da segunda coluna-->
+        <img src="the_matrix.jpg" alt= "Capa do filme The Matrix"><!--Tag de imagem com fonte especificada-->
+        <img src="TWD.jpg" alt= "Capa da série The Walking Dead"><!--Tag de imagem com fonte especificada-->
+        <img src="Westworld.jpg" alt= "Capa da série Westworld"><!--Tag de imagem com fonte especificada-->
+    </section><!--Fim da primeira coluna-->
+    
+    <section class="coluna2"><!--Início da segunda coluna-->
         <h2>Podcasts</h2><!--Tag de título secundário-->
-        <img src="DevShow.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="falaDev-Podcast.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="HipstersTech.png"><!--Tag de imagem com fonte especificada-->
-    </div><!--Fim da segunda coluna-->
-    <div class ="coluna3"><!--Início da terceira coluna-->
+        <img src="DevShow.jpg" alt= "Logo do podcast DevShow"><!--Tag de imagem com fonte especificada-->
+        <img src="falaDev-Podcast.jpg" alt= "Logo do podcast FalaDev"><!--Tag de imagem com fonte especificada-->
+        <img src="HipstersTech.png" alt= "Logo do podcast Hipsters ponto Tech"><!--Tag de imagem com fonte especificada-->
+    </section><!--Fim da segunda coluna-->
+    
+    <section class ="coluna3"><!--Início da terceira coluna-->
         <h2>Livros</h2><!--Tag de título secundário-->
-        <img src="TANENBAUM - Organizacao Estruturada de Computadores.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="PRESSMAN - Engenharia de software.jpg"><!--Tag de imagem com fonte especificada-->
-        <img src="FORBELLONE & ELBERSPACHER - Lógica de Programação..jpg"><!--Tag de imagem com fonte especificada-->
-    </div><!--Fim da terceira coluna-->
-</div><!--Fim da div principal-->
+        <img src="TANENBAUM - Organizacao Estruturada de Computadores.jpg" alt= "Capa do livro Organização Estruturada de Computadores"><!--Tag de imagem com fonte especificada-->
+        <img src="PRESSMAN - Engenharia de software.jpg" alt= "Capa do livro Engenharia de software"><!--Tag de imagem com fonte especificada-->
+        <img src="FORBELLONE & ELBERSPACHER - Lógica de Programação..jpg" alt= "Capa do livro Lógica de Programação"><!--Tag de imagem com fonte especificada-->
+    </section><!--Fim da terceira coluna-->
+</main><!--Fim da div principal-->
 </body><!--Fim da tag de corpo-->
 </html><!--Fim do documento HTML-->
