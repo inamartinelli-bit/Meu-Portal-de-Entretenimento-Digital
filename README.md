@@ -35,10 +35,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-origin
 
 ## 💻 Sintaxe do código
 
-    👩‍💻 O título da página web (aba) é: Meus sites favoritos.
+    👩‍💻 O título da página web (aba) é: Meu Portal de Entretenimento Digital
     
-    👩‍💻 O título do corpo da página é: Meus sites favoritos seguido do nome do autor.
+    👩‍💻 O título do corpo da página é: Portal de Entretenimento Digital
 
-    👩‍💻 O corpo da página ilustra imagens de sites frequentemente acessados.
+    👩‍💻 O corpo da página ilustra imagens de filmes, séries, podcasts e livros.
 
-    👩‍💻 O link de cada site está inserido abaixo da imagens correspondente.
+    👩‍💻 
