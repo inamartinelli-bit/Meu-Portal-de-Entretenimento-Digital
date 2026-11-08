@@ -4,11 +4,13 @@
 
 ## 🎯 Objetivo do programa
 
-🏹 Desenvolver uma página web utilizando as linguagens de marcação HTML e estilização CSS;
+🏹 Desenvolver uma página web utilizando as linguagens de marcação de texto HTML;
+
+🏹 Construir folhas de estilo aplicando sintaxe, seletores e propriedade CSS;
 
 🏹 Aplicar os conceitos de classes e IDs paa padronizar o estilo dos títulos e das fontes das imagens;
 
-🏹 Aplicar o modelo Flexbox para organizar três seções lado a lado;
+🏹 Aplicar técnicas de layout com Flexbox;
 
 🏹 Criar um arquivo CSS Reset baseado no modelo de Eric Meyer
 
@@ -35,10 +37,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-origin
 
 ## 💻 Sintaxe do código
 
-    👩‍💻 O título da página web (aba) é: Meu Portal de Entretenimento Digital
+    👩‍💻 O título da página web (aba) é: Meu Portal de Entretenimento Digital.
     
-    👩‍💻 O título do corpo da página é: Portal de Entretenimento Digital
+    👩‍💻 O título do corpo da página é: Portal de Entretenimento Digital.
 
-    👩‍💻 O corpo da página ilustra imagens de filmes, séries, podcasts e livros.
+    👩‍💻 O corpo da página ilustra imagens de filmes e séries, podcasts mais acessados e livros utilizados.
 
-    👩‍💻 
+    👩‍💻 As imagens ilustrativas estão organizadas em secções lado a lado.
